@@ -44,7 +44,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Deployment
 
-<a href="https://exquisite-cendol-41566c.netlify.app/">https://exquisite-cendol-41566c.netlify.app/</a>
+<a href="mental-health-assistant.netlify.app
+">mental-health-assistant.netlify.app/</a>
 
 ## License
 
